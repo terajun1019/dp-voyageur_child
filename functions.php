@@ -124,4 +124,4 @@ function lb_display_badge_on_single(){
   }
 }
 
-// test comments-3
+// test comments-4
